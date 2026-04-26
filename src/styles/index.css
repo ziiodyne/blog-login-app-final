@@ -1,0 +1,19 @@
+/* Reset default browser spacing */
+* {
+    box-sizing: border-box;
+}
+
+/* Remove white border issue */
+html,
+body,
+#root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100%;
+}
+
+/* Prevent horizontal scroll glitches */
+body {
+    overflow-x: hidden;
+}

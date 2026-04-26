@@ -1,0 +1,33 @@
+.login-page {
+    background-color: #14051f;
+    background-image: linear-gradient(#120421de,
+            #1a144c9c,
+            #1f081bde),
+        url("/images/space_img_1.png");
+
+    min-height: 100vh;
+    /* FULL SCREEN */
+    display: flex;
+    flex-direction: column;
+}
+
+.login-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin-top: 5rem;
+    color: white;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+    margin: 0rem;
+    margin-bottom: 1rem;
+}

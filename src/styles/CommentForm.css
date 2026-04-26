@@ -1,0 +1,15 @@
+.enter-text {
+    border-radius: 0.5rem;
+    padding-top: 0.6rem;
+    padding-left: 1.3rem;
+    font-size: 20px;
+    width: 35rem;
+    height: 3rem;
+    background-color: #10021977;
+    color: white;
+    border: 0.11rem #ffffff71 solid;
+}
+
+.form {
+    padding-bottom: 3rem;
+}

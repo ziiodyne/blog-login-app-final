@@ -1,0 +1,9 @@
+.comment_header {
+    margin: 0rem;
+}
+
+.comm_list {
+    line-height: 2.5rem;
+    list-style-type: none;
+    margin-bottom: 3.5rem;
+}
